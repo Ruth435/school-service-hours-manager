@@ -51,7 +51,7 @@ The Microsoft Access backend (`2022PAT.accdb`) consists of four primary entities
 ---
 
 ## 📝 Project Context
-Developer: High School IT Student Project (PAT 2022)
+Developer: Ruth-ann Rudolph - High School IT Student Project (PAT 2022)
 
 Status: Completed (Archived)
 
