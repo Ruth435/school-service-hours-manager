@@ -50,6 +50,18 @@ The Microsoft Access backend (`2022PAT.accdb`) consists of four primary entities
 
 ---
 
+
+## 📷 Screenshots & Visual Guidance
+
+For detailed visual walkthroughs, UI mockups, and system architecture diagrams, please refer to the project documentation located in the [`/docs`](./docs) folder. 
+
+Key documentation includes:
+* **[Phase 1 Documentation](./docs/PAT_Phase1_Documentation.pdf):** Problem definition, user requirements, and initial UI wireframes.
+* **[Phase 2 Documentation](./docs/PAT_Phase2_Documentation.pdf):** Database design (ERD), table relationships, and GUI layout screenshots.
+* **[Phase 3 Documentation](./docs/PAT_Phase3_Documentation.pdf):** Full application walkthrough, final feature screenshots, and testing reports.
+
+---
+
 ## 📝 Project Context
 Developer: Ruth-ann Rudolph - High School IT Student Project (PAT 2022)
 
